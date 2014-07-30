@@ -13,6 +13,11 @@ mac/linux 等，自行google吧
 
 ##github unix cmd 使用教程
 
+###pull request 使用教程
+
+https://www.zybuluo.com/plantpark/note/24419
+
+
 ###第一次使用github，现将仓库clone到本地
 
 git init 
