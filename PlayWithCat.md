@@ -1,8 +1,8 @@
-# ¶ºÃ¨ÉñÆ÷
+ï»¿# é€—çŒ«ç¥žå™¨
 
->[Ô­ÎÄÁ´½Ó] (http://www.instructables.com/id/Remote-Control-Cat-Harness/?ALLSTEPS) ×÷Õß:Aleator777   ·­Òë:AD£¨ldq370125£©
+>[åŽŸæ–‡é“¾æŽ¥] (http://www.instructables.com/id/Remote-Control-Cat-Harness/?ALLSTEPS) ä½œè€…:Aleator777   ç¿»è¯‘:ADï¼ˆldq370125ï¼‰
 
-±êÇ©£¨¿Õ¸ñ·Ö¸ô£©£º ¼¤¹â±Ê ¶ºÃ¨
+æ ‡ç­¾ï¼ˆç©ºæ ¼åˆ†éš”ï¼‰ï¼š æ¿€å…‰ç¬” é€—çŒ«
 
 ---
 
@@ -10,174 +10,174 @@
 
 ![](http://huohua.qiniudn.com/PlayWithCat02.jpg)
 
-##1. ¼ò½é
-»¹ÔÚÓÃ¹·Î²²Ý¶ºÃ¨ÍæÃ´£¿
-»¹ÔÚÈÃÄã¼ÒµÄÃ¨ßä´óÈËÍæÏßÇòÃ´£¿
-ÊÇ²»ÊÇ¾õµÃ´«Í³¶ºÃ¨ÍæµÄ¶«¶«¶¼ÒÑ¾­Èõ±¬ÁË°¡£¡
-Ïë²»ÏëÀ´µã´Ì¼¤ºÃÍæµÄÄØ£¿
-ÄÇ¾ÍÀ´¿´Õâ¶ùµÄÕâ¸ö¶ºÃ¨ÉñÆ÷°É£¡
+##1. ç®€ä»‹
+è¿˜åœ¨ç”¨ç‹—å°¾è‰é€—çŒ«çŽ©ä¹ˆï¼Ÿ
+è¿˜åœ¨è®©ä½ å®¶çš„çŒ«å’ªå¤§äººçŽ©çº¿çƒä¹ˆï¼Ÿ
+æ˜¯ä¸æ˜¯è§‰å¾—ä¼ ç»Ÿé€—çŒ«çŽ©çš„ä¸œä¸œéƒ½å·²ç»å¼±çˆ†äº†å•Šï¼
+æƒ³ä¸æƒ³æ¥ç‚¹åˆºæ¿€å¥½çŽ©çš„å‘¢ï¼Ÿ
+é‚£å°±æ¥çœ‹è¿™å„¿çš„è¿™ä¸ªé€—çŒ«ç¥žå™¨å§ï¼
     
-##2. Çåµ¥
-###2.1 ²ÄÁÏ
-- Ò£¿ØÖ±Éý»ú X1
-- ¼¤¹â±Ê X1
-- ËÅ·þµç»ú X1
-- NPN¾§Ìå¹Ü X1
-- 1k¦¸µç×è X1
-- AAAµç³Ø×ù X1
-- AAAµç³Ø X2
-- AAµç³Ø X6
-- Ã¨ßäÊø¸¿´ø X1
-- Ã¨ßä X1
-- µ¼ÏßÈô¸É
-- ÕëÏß
+##2. æ¸…å•
+###2.1 ææ–™
+- é¥æŽ§ç›´å‡æœº X1
+- æ¿€å…‰ç¬” X1
+- ä¼ºæœç”µæœº X1
+- NPNæ™¶ä½“ç®¡ X1
+- 1kÎ©ç”µé˜» X1
+- AAAç”µæ± åº§ X1
+- AAAç”µæ±  X2
+- AAç”µæ±  X6
+- çŒ«å’ªæŸç¼šå¸¦ X1
+- çŒ«å’ª X1
+- å¯¼çº¿è‹¥å¹²
+- é’ˆçº¿
 
 ![](http://huohua.qiniudn.com/PlayWithCat03.jpg)
 
-###2.2 ¹¤¾ß
-- ÂÝË¿µ¶
-- ¼â×ìÇ¯
-- µçÀÓÌú
-- 3D´òÓ¡»ú
-- Ì¨Ç¯
+###2.2 å·¥å…·
+- èžºä¸åˆ€
+- å°–å˜´é’³
+- ç”µçƒ™é“
+- 3Dæ‰“å°æœº
+- å°é’³
 
-##3. ×é×°
-### 3.1 ¸Ä×°Ò£¿ØÖ±Éý»ú
-ÎÒÃÇ¸Ä×°Ò£¿ØÖ±Éý»ú£¬ÆäÊµÖ÷ÒªÊÇÒªµÃµ½ÆäÄÚ²¿µÄºìÍâÊÕ·¢×é¼þ£¬ÓÃÒÔ¿ØÖÆÎÒÃÇµÄËÅ·þµç»ú×ª¶¯ÒÔ¼°¼¤¹âµÄ¿ª¹Ø¡£
+##3. ç»„è£…
+### 3.1 æ”¹è£…é¥æŽ§ç›´å‡æœº
+æˆ‘ä»¬æ”¹è£…é¥æŽ§ç›´å‡æœºï¼Œå…¶å®žä¸»è¦æ˜¯è¦å¾—åˆ°å…¶å†…éƒ¨çš„çº¢å¤–æ”¶å‘ç»„ä»¶ï¼Œç”¨ä»¥æŽ§åˆ¶æˆ‘ä»¬çš„ä¼ºæœç”µæœºè½¬åŠ¨ä»¥åŠæ¿€å…‰çš„å¼€å…³ã€‚
 
-- ÏÈÀ´Ò»ÕÅÕû¸öÒ£¿ØÖ±Éý»úµÄÍêÈ«²ð½âÍ¼
+- å…ˆæ¥ä¸€å¼ æ•´ä¸ªé¥æŽ§ç›´å‡æœºçš„å®Œå…¨æ‹†è§£å›¾
 
 ![](http://huohua.qiniudn.com/PlayWithCat04.jpg)
 
-- ÏÂÃæ¾ÍÊÇ´ýÎÒÃÇÈÎÒâÔ×¸îµÄÒ£¿ØÖ±Éý»ú¡°È«Ê¬¡±£¡
+- ä¸‹é¢å°±æ˜¯å¾…æˆ‘ä»¬ä»»æ„å®°å‰²çš„é¥æŽ§ç›´å‡æœºâ€œå…¨å°¸â€ï¼
 
 ![](http://huohua.qiniudn.com/PlayWithCat05.jpg)
 
-- ÎÒÃÇÏÈ´Óµ×²¿ÏÂÊÖ£¬²ð½âÏÂÀ´µ××ù
+- æˆ‘ä»¬å…ˆä»Žåº•éƒ¨ä¸‹æ‰‹ï¼Œæ‹†è§£ä¸‹æ¥åº•åº§
 
 ![](http://huohua.qiniudn.com/PlayWithCat06.jpg)
 
-- ÒÑ¾­²ðÏÂºÜ¶à¶«¶«ÁË£¬²»ÒªÐÄÌÛ×Ô¼ºµÄÖ±Éý»úÅ¶
+- å·²ç»æ‹†ä¸‹å¾ˆå¤šä¸œä¸œäº†ï¼Œä¸è¦å¿ƒç–¼è‡ªå·±çš„ç›´å‡æœºå“¦
 
 ![](http://huohua.qiniudn.com/PlayWithCat07.jpg)
 
-- OK£¡Õâ¶ù¾Í»ù±¾°ÑÖ÷ÒªµÄºìÍâÊÕ·¢×é¼þ²ðÁË³öÀ´
+- OKï¼è¿™å„¿å°±åŸºæœ¬æŠŠä¸»è¦çš„çº¢å¤–æ”¶å‘ç»„ä»¶æ‹†äº†å‡ºæ¥
 
 ![](http://huohua.qiniudn.com/PlayWithCat08.jpg)
 
-- ½«ÂÝÐý½°µÈ²¿¼þÒ»Ò»²ðÏÂ
+- å°†èžºæ—‹æ¡¨ç­‰éƒ¨ä»¶ä¸€ä¸€æ‹†ä¸‹
 
 ![](http://huohua.qiniudn.com/PlayWithCat09.jpg)
 
-### 3.2 ¸Ä×°ËÅ·þµç»ú
-ÎÒÃÇ½«Ê¹ÓÃºìÍâÊÕ·¢×é¼þÖ±½Ó¿ØÖÆËÅ·þµç»úµÄ×ª¶¯£¬ËùÒÔÎÒÃÇÕâ¶ù¾ÍÊÇÐèÒª½«Ô­×°ËÅ·þµç»úÀïÃæµÄ¿ØÖÆ°å²ð³öÀ´¡£
+### 3.2 æ”¹è£…ä¼ºæœç”µæœº
+æˆ‘ä»¬å°†ä½¿ç”¨çº¢å¤–æ”¶å‘ç»„ä»¶ç›´æŽ¥æŽ§åˆ¶ä¼ºæœç”µæœºçš„è½¬åŠ¨ï¼Œæ‰€ä»¥æˆ‘ä»¬è¿™å„¿å°±æ˜¯éœ€è¦å°†åŽŸè£…ä¼ºæœç”µæœºé‡Œé¢çš„æŽ§åˆ¶æ¿æ‹†å‡ºæ¥ã€‚
 
-- ÏÈÀ´Ò»ÕÅÔ­×°µÄËÅ·þµç»úÕÕÆ¬
+- å…ˆæ¥ä¸€å¼ åŽŸè£…çš„ä¼ºæœç”µæœºç…§ç‰‡
 
 ![](http://huohua.qiniudn.com/PlayWithCat11.jpg)
 
-- ÔÚËÅ·þµç»úµÄÏÂ·½¿ÉÒÔ¿´µ½ËÄ¸öÐ¡ÂÝË¿Æð¹Ì¶¨×÷ÓÃ
+- åœ¨ä¼ºæœç”µæœºçš„ä¸‹æ–¹å¯ä»¥çœ‹åˆ°å››ä¸ªå°èžºä¸èµ·å›ºå®šä½œç”¨
 
 ![](http://huohua.qiniudn.com/PlayWithCat12.jpg)
 
-- ÓÃÂÝË¿µ¶½«4¸öÐ¡ÂÝË¿²ð½âÏÂÀ´£¬´ò¿ªËÅ·þµç»úµÄºó¸Ç
+- ç”¨èžºä¸åˆ€å°†4ä¸ªå°èžºä¸æ‹†è§£ä¸‹æ¥ï¼Œæ‰“å¼€ä¼ºæœç”µæœºçš„åŽç›–
 
 ![](http://huohua.qiniudn.com/PlayWithCat13.jpg)
 
-- ËÅ·þµç»úÀïÃæµÄ¿ØÖÆÖ÷°åÒ»ÑÛ¾Í¿ÉÒÔ¿´µ½£¬Ð¡ÐÄµÄÀ­³öÀ´
+- ä¼ºæœç”µæœºé‡Œé¢çš„æŽ§åˆ¶ä¸»æ¿ä¸€çœ¼å°±å¯ä»¥çœ‹åˆ°ï¼Œå°å¿ƒçš„æ‹‰å‡ºæ¥
 
 ![](http://huohua.qiniudn.com/PlayWithCat14.jpg)
 
 
-- ½«¿ØÖÆÖ÷°å²ð½âµô£¬Ö»Ê£ÏÂÏÂÍ¼ÖÐ²¿¼þµÄÑù×Ó
+- å°†æŽ§åˆ¶ä¸»æ¿æ‹†è§£æŽ‰ï¼Œåªå‰©ä¸‹ä¸‹å›¾ä¸­éƒ¨ä»¶çš„æ ·å­
 
 ![](http://huohua.qiniudn.com/PlayWithCat15.jpg)
 
-- ÕÒÒ»¶Ô10cm×óÓÒµÄµ¼Ïß
+- æ‰¾ä¸€å¯¹10cmå·¦å³çš„å¯¼çº¿
 
 ![](http://huohua.qiniudn.com/PlayWithCat16.jpg)
 
-- ½«ÕâÁ½¸ùµ¼Ïß¸úÊ£ÏÂµÄËÅ·þ¶æ»úµÄÁ½¸ùÏßÍ·º¸½ÓÔÚÒ»Æð
+- å°†è¿™ä¸¤æ ¹å¯¼çº¿è·Ÿå‰©ä¸‹çš„ä¼ºæœèˆµæœºçš„ä¸¤æ ¹çº¿å¤´ç„ŠæŽ¥åœ¨ä¸€èµ·
 
 ![](http://huohua.qiniudn.com/PlayWithCat17.jpg)
 
-- ¸ÇÉÏºó¸Ç£¬½«4¸öÂÝË¿Å¡ÉÏ
+- ç›–ä¸ŠåŽç›–ï¼Œå°†4ä¸ªèžºä¸æ‹§ä¸Š
 
 ![](http://huohua.qiniudn.com/PlayWithCat18.jpg)
 
-- 3D´òÓ¡³öËÅ·þ¶æ»úµÄµ××ù£¨3D´òÓ¡Ô´ÎÄ¼þ [Á´½Ó](http://huohua.qiniudn.com/PlayWithCat01.stl)£©
+- 3Dæ‰“å°å‡ºä¼ºæœèˆµæœºçš„åº•åº§ï¼ˆ3Dæ‰“å°æºæ–‡ä»¶ [é“¾æŽ¥](http://huohua.qiniudn.com/PlayWithCat01.stl)ï¼‰
 
 ![](http://huohua.qiniudn.com/PlayWithCat19.jpg)
 
-- ½«¸Ä×°ºóµÄËÅ·þµç»ú°²×°ÔÚµ××øÀïÃæ£¬²¢½«ÒýÏßÉì³öÀ´
+- å°†æ”¹è£…åŽçš„ä¼ºæœç”µæœºå®‰è£…åœ¨åº•åé‡Œé¢ï¼Œå¹¶å°†å¼•çº¿ä¼¸å‡ºæ¥
 
 ![](http://huohua.qiniudn.com/PlayWithCat20.jpg)
 
-### 3.3 ¸Ä×°¼¤¹â±Ê
+### 3.3 æ”¹è£…æ¿€å…‰ç¬”
 
-ÎÒÃÇÐèÒª½«¼¤¹â±Ê¸Ä³ÉÌå»ýÉÔÐ¡µÄ×é¼þ£¬ËùÒÔ²ð½â¼¤¹â±Ê±Ø²»¿ÉÉÙ¡£
+æˆ‘ä»¬éœ€è¦å°†æ¿€å…‰ç¬”æ”¹æˆä½“ç§¯ç¨å°çš„ç»„ä»¶ï¼Œæ‰€ä»¥æ‹†è§£æ¿€å…‰ç¬”å¿…ä¸å¯å°‘ã€‚
 
-- Õâ¶ùÎÒÃÇÐèÒªÒ»¸ù¼¤¹â±ÊºÍÏàÓ¦µÄ¹¤¾ß
+- è¿™å„¿æˆ‘ä»¬éœ€è¦ä¸€æ ¹æ¿€å…‰ç¬”å’Œç›¸åº”çš„å·¥å…·
 
 ![](http://huohua.qiniudn.com/PlayWithCat21.jpg)
 
-- ÓÃÌ¨Ç¯°Ñ¼¤¹â±Ê¹Ì¶¨×¡
+- ç”¨å°é’³æŠŠæ¿€å…‰ç¬”å›ºå®šä½
 
 ![](http://huohua.qiniudn.com/PlayWithCat22.jpg)
 
-- ½«¼¤¹â±ÊµÄ¼¤¹âÍ·¸øÇ¯ÏÂÀ´
+- å°†æ¿€å…‰ç¬”çš„æ¿€å…‰å¤´ç»™é’³ä¸‹æ¥
 
 ![](http://huohua.qiniudn.com/PlayWithCat23.jpg)
 
-- Õâ¸ö¹ý³Ì»¹ÊÇÉÔÎ¢ÓÐµã±©Á¦µÄ£¬ÒªÓÃµ½Ì¨Ç¯ºÍÇ¯×Ó¡£×¢Òâ°²È«¡£
+- è¿™ä¸ªè¿‡ç¨‹è¿˜æ˜¯ç¨å¾®æœ‰ç‚¹æš´åŠ›çš„ï¼Œè¦ç”¨åˆ°å°é’³å’Œé’³å­ã€‚æ³¨æ„å®‰å…¨ã€‚
 
 ![](http://huohua.qiniudn.com/PlayWithCat24.jpg)
 
-- OK£¡²ð½â³öÀ´ÁË¡£
+- OKï¼æ‹†è§£å‡ºæ¥äº†ã€‚
 
 ![](http://huohua.qiniudn.com/PlayWithCat25.jpg)
 
-- Õâ¾ÍÊÇÎÒÃÇ×îÐèÒªµÄ¼¤¹âÍ·²¿·Ö¡£ÔõÃ´Ñù£¬ÕâÑù¾ÍÐ¡ÇÉ¶àÁË°É£¡
+- è¿™å°±æ˜¯æˆ‘ä»¬æœ€éœ€è¦çš„æ¿€å…‰å¤´éƒ¨åˆ†ã€‚æ€Žä¹ˆæ ·ï¼Œè¿™æ ·å°±å°å·§å¤šäº†å§ï¼
 
 ![](http://huohua.qiniudn.com/PlayWithCat26.jpg)
 
-- ÎÒÃÇÐèÒª½«Á½Ìõ¿ØÖÆÏßº¸½ÓÔÚ¼¤¹âÍ·ÉÏ
+- æˆ‘ä»¬éœ€è¦å°†ä¸¤æ¡æŽ§åˆ¶çº¿ç„ŠæŽ¥åœ¨æ¿€å…‰å¤´ä¸Š
 
 ![](http://huohua.qiniudn.com/PlayWithCat27.jpg)
 
-- ¸üÇå³þµãµÄº¸½ÓÕÕÆ¬
+- æ›´æ¸…æ¥šç‚¹çš„ç„ŠæŽ¥ç…§ç‰‡
 
 ![](http://huohua.qiniudn.com/PlayWithCat28.jpg)
 
 
-### 3.4 ºÏÌå
+### 3.4 åˆä½“
 
-- Ê×ÏÈÊÇÎÒÃÇÕûÌåµÄµçÂ·Ô­ÀíÍ¼£¬»òÕß½Ð×ö¿ò¼ÜÍ¼Ò²ÐÐ¡£
+- é¦–å…ˆæ˜¯æˆ‘ä»¬æ•´ä½“çš„ç”µè·¯åŽŸç†å›¾ï¼Œæˆ–è€…å«åšæ¡†æž¶å›¾ä¹Ÿè¡Œã€‚
 
 ![](http://huohua.qiniudn.com/PlayWithCat29.jpg)
 
-- ÏÂÒ»²½¾ÍÊÇÒª°´ÕÕÕâ¸öÇåÎúµÄÔ­ÀíÍ¼°Ñ¸÷¸ö×é¼þÁ¬½ÓÆðÀ´£¬½«¼¤¹âÍ·¹Ì¶¨ÔÚËÅ·þµç»úÉÏ£¬²¢ÇÒ½«µç³Ø×ù¡¢ºìÍâÒ£¿Ø×é¼þµ××ù¡¢ËÅ·þµç»úµ××ùÓÃÕëÏß·ìÔÚÃ¨ßäÊø¸¿´øµÄ±³²¿Ò»²à¡££¨µç³Ø×ùÔ´ÎÄ¼þ [Á´½Ó](http://huohua.qiniudn.com/PlayWithCat02.stl) ¡¢ºìÍâÒ£¿Ø×é¼þµ××ùµÄÔ´ÎÄ¼þ [Á´½Ó](http://huohua.qiniudn.com/PlayWithCat03.stl) )
+- ä¸‹ä¸€æ­¥å°±æ˜¯è¦æŒ‰ç…§è¿™ä¸ªæ¸…æ™°çš„åŽŸç†å›¾æŠŠå„ä¸ªç»„ä»¶è¿žæŽ¥èµ·æ¥ï¼Œå°†æ¿€å…‰å¤´å›ºå®šåœ¨ä¼ºæœç”µæœºä¸Šï¼Œå¹¶ä¸”å°†ç”µæ± åº§ã€çº¢å¤–é¥æŽ§ç»„ä»¶åº•åº§ã€ä¼ºæœç”µæœºåº•åº§ç”¨é’ˆçº¿ç¼åœ¨çŒ«å’ªæŸç¼šå¸¦çš„èƒŒéƒ¨ä¸€ä¾§ã€‚ï¼ˆç”µæ± åº§æºæ–‡ä»¶ [é“¾æŽ¥](http://huohua.qiniudn.com/PlayWithCat02.stl) ã€çº¢å¤–é¥æŽ§ç»„ä»¶åº•åº§çš„æºæ–‡ä»¶ [é“¾æŽ¥](http://huohua.qiniudn.com/PlayWithCat03.stl) )
 
 ![](http://huohua.qiniudn.com/PlayWithCat30.jpg)
 
-- ×é×°ÆðÀ´ºóµÄÁíÒ»²àÕÕÆ¬
+- ç»„è£…èµ·æ¥åŽçš„å¦ä¸€ä¾§ç…§ç‰‡
 
 ![](http://huohua.qiniudn.com/PlayWithCat31.jpg)
 
-### 3.5 ÕÒÒ»Ö»Ã¨ßä
+### 3.5 æ‰¾ä¸€åªçŒ«å’ª
 
-¶÷£¬Õâ¸öËµ¼òµ¥Ò²¼òµ¥£¬ËµÄÑÒ²ÄÑ¡£¡£¡£
+æ©ï¼Œè¿™ä¸ªè¯´ç®€å•ä¹Ÿç®€å•ï¼Œè¯´éš¾ä¹Ÿéš¾ã€‚ã€‚ã€‚
 
-¿É°®µÄß÷ßä£¬¸Ï½ôµ½ÍëÀïÀ´£¡
+å¯çˆ±çš„å–µå’ªï¼Œèµ¶ç´§åˆ°ç¢—é‡Œæ¥ï¼
 
 ![](http://huohua.qiniudn.com/PlayWithCat32.jpg)
 
 
-##4 ³É¹ûÕ¹Ê¾
+##4 æˆæžœå±•ç¤º
 
-ºÃÀ²£¡
-¸øÄã¼ÒµÄÃ¨ßä°²×°ÕâÃ´Ò»¸ö¸ß´óÉÏµÄÍæ¾ß°É£¡
-ÏàÐÅÄã¼ÒÃ¨ßäÒ»¶¨»á°®ËÀÄãµÄ£¡
+å¥½å•¦ï¼
+ç»™ä½ å®¶çš„çŒ«å’ªå®‰è£…è¿™ä¹ˆä¸€ä¸ªé«˜å¤§ä¸Šçš„çŽ©å…·å§ï¼
+ç›¸ä¿¡ä½ å®¶çŒ«å’ªä¸€å®šä¼šçˆ±æ­»ä½ çš„ï¼
 
 ![](http://huohua.qiniudn.com/PlayWithCat33.jpg)
 
